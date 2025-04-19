@@ -38,7 +38,7 @@ InDriver clone by Oyelabs lets you launch a real-time, fare-bidding taxi booking
   </p>
 
   <p>
-    📧 <a href="mailto:grow@oyelabs.com">grow@oyelabs.com</a><br>
-    🌐 <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a>
-  </p>
+  📧 <a href="mailto:myoyelabs@gmail.com">myoyelabs@gmail.com</a><br>
+  🌐 <a href="https://www.oyelabs.com">www.oyelabs.com</a>
+</p>
 </section>
