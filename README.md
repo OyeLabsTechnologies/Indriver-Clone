@@ -1,3 +1,22 @@
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oyelabs?lang=en)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myoyelabs/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@oyelabs9119?si=jpMaBUfNigpVCjuf)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://oyelabs.com/indriver-clone-app-development/">
+    <img src="https://oyelabs.com/wp-content/uploads/2023/05/indriver.png" alt="Logo" width="120" height="120">
+  </a>
+
+  <h3 align="center">Launch InDriver Clone</h3>
+
+  <p align="center">
+    A InDriver clone app made with android native (java) and firebase
+    <br />
+
 ### How to Launch Your InDriver Clone: A Complete Guide ###  
 
 Ride-hailing apps have become part of everyday life. Whether it’s booking a quick ride, sending a parcel, or choosing the type of vehicle you need, people now expect to do it all with just a few taps. Among these platforms, the InDriver model stands out because it lets riders and drivers agree on the price together instead of sticking to fixed fares.  
@@ -31,9 +50,12 @@ Building an app is one thing, but telling people why it matters is just as impor
 Back up your app’s value with real-world insights. For example, show how fare bidding often results in cheaper rides for riders and smarter earnings for drivers. Highlight the rising demand for apps that mix rides with deliveries. This kind of proof helps potential users and investors take your app seriously.  
 
 ***Step 5: Let People Try It***  
+
 Nothing convinces people better than trying it for themselves. Offering demos or free trials lets riders and drivers see how smooth and practical your app really is. This builds trust, spreads word-of-mouth, and kickstarts a loyal user base.  
 
 ---  
-Use this guide to navigate through the process, and soon, you'll be making waves in the ride-hailing industry.  
-</p>
-</section>
+Use this guide to start your journey with an InDriver Clone. By focusing on key features, engaging your users, and providing demos and support, you can create a platform that stands out in the ride-hailing market. With consistent updates and attention to user experience, your app can quickly gain traction and make an impact.  
+
+### 🌐 Sources
+
+[InDriver Clone – Launch Your Own Taxi Bidding App](https://oyelabs.com/indriver-clone-app-development/)
